@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">heros</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="noResultTitle">Ops!</string>
+
+
+    <string name="listNoResultMessage">No results found for this list!\nTry again later!</string>
+</resources>
